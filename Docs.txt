@@ -3,3 +3,11 @@ git clone https://github.com/princejotham/ua.git uaproject
 heroku login
 heroku git:remote -a yourapp
 git push heroku master
+
+
+Dev Steps
+1. Install Git
+2. Install xamppp
+3. Install Composer
+4. Install Sublimetext/VS code
+5. Install Heroku Toolbelt
