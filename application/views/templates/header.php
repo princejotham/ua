@@ -39,10 +39,10 @@
                     <!--sidebar nav start-->
                     <ul class="side-navigation">
                         <li>
-                            <h3 class="navigation-title">Manage Data</h3>
+                            <a href="<?=base_url();?>dashboard"><i class="mdi mdi-gauge"></i> <span>Dashboard</span></a>
                         </li>
                         <li>
-                            <a href="<?=base_url();?>dashboard"><i class="mdi mdi-gauge"></i> <span>Dashboard</span></a>
+                            <h3 class="navigation-title">Manage Data</h3>
                         </li>
                         <li class="menu-list"><a href=""><i class="mdi mdi-buffer"></i> <span>UI Elements</span></a>
                             <ul class="child-list">
