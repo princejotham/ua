@@ -62,6 +62,40 @@
                                 <li><a href="<?=base_url();?>research-output"> Submit Research Output</a></li>
                             </ul>
                         </li>
+                        <li>
+                            <h3 class="navigation-title">Extension</h3>
+                        </li>
+                        <li class="menu-list"><a href=""><i class="mdi mdi-file-multiple"></i> <span>Services</span></a>
+                            <ul class="child-list">
+                                <li><a href="<?=base_url();?>coordinators-list"> List of Coordinators</a></li>
+                                <li><a href="<?=base_url();?>coordinators-list"> Profile of Beneficiary</a></li>
+                                <li><a href="<?=base_url();?>coordinators-list"> Profile of Extentionist</a></li>
+                                <li><a href="<?=base_url();?>coordinators-list"> List of MOA</a></li>
+                                <li><a href="<?=base_url();?>coordinators-list"> Reports</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <h3 class="navigation-title">Intellectual Property</h3>
+                        </li>
+                        <li class="menu-list"><a href=""><i class="mdi mdi-file-multiple"></i> <span>Intellectual Property</span></a>
+                            <ul class="child-list">
+                                <li><a href="<?=base_url();?>coordinators-list"> List of Coordinators</a></li>
+                                <li><a href="<?=base_url();?>coordinators-list"> Application for Copywrite</a></li>
+                                <li><a href="<?=base_url();?>coordinators-list"> Profiling Investors</a></li>
+                                <li><a href="<?=base_url();?>coordinators-list"> Reports</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <h3 class="navigation-title">Profiles</h3>
+                        </li>
+                        <li class="menu-list"><a href=""><i class="mdi mdi-file-multiple"></i> <span>Manage Profiles</span></a>
+                            <ul class="child-list">
+                                <li><a href="<?=base_url();?>coordinators-list"> List of Coordinator</a></li>
+                                <li><a href="<?=base_url();?>coordinators-list"> List of Faculty</a></li>
+                                <li><a href="<?=base_url();?>coordinators-list"> Linkages</a></li>
+                                <li><a href="<?=base_url();?>coordinators-list"> MOA</a></li>
+                            </ul>
+                        </li>
                     </ul><!--sidebar nav end-->
                 </div>
             </div><!-- sidebar left end-->
