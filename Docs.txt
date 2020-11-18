@@ -1,2 +1,5 @@
 CLONE REPO
 git clone https://github.com/princejotham/ua.git uaproject
+heroku login
+heroku git:remote -a yourapp
+git push heroku master
