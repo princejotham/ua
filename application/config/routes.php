@@ -1,6 +1,8 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
+$route['research/create-reseach-proposal'] = 'research/view';
+
 $route['default_controller'] = 'admin/view';
 
 $route['(:any)'] = 'admin/view/$1';

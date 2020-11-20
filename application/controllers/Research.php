@@ -9,10 +9,10 @@ class Research extends CI_Controller {
 		}
 
 		$data['title'] = 'University of Antique';
-		$data['page_title'] = ucfirst($page);
+		$data['page_title'] = 'Create Research Proposal';
 
 		$this->load->view('templates/header', $data);
-		$this->load->view('admin/'.$page, $data);
+		$this->load->view('admin/research/'.$page, $data);
 		$this->load->view('templates/footer');
 	}
 }
