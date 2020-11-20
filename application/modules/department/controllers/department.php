@@ -8,9 +8,6 @@ class Department extends MX_Controller {
     function __construct() {
         parent::__construct();
         $this->load->model('department_model');
-        if (!$this->ion_auth->in_group('admin')) {
-            redirect('home/permission');
-        }
     }
 
     public function index() {
