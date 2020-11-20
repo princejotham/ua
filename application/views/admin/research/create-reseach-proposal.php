@@ -8,8 +8,8 @@
 	<p>Input Definition of Terms</p>
 	<p>Input Review of literature</p>
 	<p>Input Methodology</p>
-	<p>Input Work Plan (Gantt Chart)</p>
-	<p>Input Line Item Budget</p>
+	<p>Input Work Plan (Gantt Chart)</p
+>	<p>Input Line Item Budget</p>
 	<p>Input Credentials of Key Personel/Staff Involved</p>
 	<p>Input References</p>
 	<p>Input Prepared By</p>
